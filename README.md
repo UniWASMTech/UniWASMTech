@@ -77,7 +77,7 @@ Building production-grade GPU-accelerated applications and libraries.
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 ### **GPU-Accelerated Applications**
 
@@ -103,76 +103,6 @@ GPU-accelerated data visualization platform for large datasets.
 - Contributing to [wgpu](https://github.com/gfx-rs/wgpu) ecosystem
 - Security audits and improvements
 - Performance optimizations
-
----
-
-##  Learning & Research
-
-### **Current Focus**
-- Advanced GPU optimization techniques
-- Zero-knowledge proof systems integration
-- Cross-platform deployment strategies
-- Security engineering and auditing
-
-### **Areas of Interest**
--  Game engine architecture
--  ML inference on GPU
--  Blockchain core security
--  Cryptographic security
--  Large-scale data visualization
-
-
-
----
-
-##  Certifications & Achievements
-
-- 🏅 **Rust Security Engineer** - Advanced Rust security practices
-- 🏅 **WebGPU Specialist** - WebGPU API expertise
-- 🏅 **Blockchain Security Auditor** - Smart contract and protocol security
-
----
-
-##  Blog & Writing
-
-I write about:
-- Rust and WebAssembly best practices
-- GPU programming and optimization
-- Security engineering insights
-- Blockchain development
-
-**Recent Articles:**
-- [Article Title] - Link
-- [Article Title] - Link
-
----
-
-##  Collaboration
-
-I'm open to:
--  **Consulting** - Rust/WASM-GPU projects, security audits
--  **Open Source** - Contributing to Rust/WebGPU projects
--  **Mentoring** - Helping developers learn Rust and GPU programming
--  **Speaking** - Technical talks and workshops
-
----
-
-
-##  Current Status
-
-<div align="center">
-
-** Currently working on:** Advanced GPU compute pipelines and Web3 applications
-
-** Learning:** Zero-knowledge proofs, advanced shader optimization
-
-** Looking to collaborate on:** Open-source Rust/WebGPU projects
-
-** Ask me about:** Rust, WebAssembly, WebGPU, GPU programming, security
-
-** Fun fact:** I can optimize GPU shaders while debugging memory safety issues!
-
-</div>
 
 ---
 
