@@ -14,21 +14,22 @@
 </div>
 
 ---
+# Hi, I'm Deante Range
 
-## 👋 About Me
+## About Me
 
 Senior software engineer specializing in **Rust**, **WebAssembly**, and **WebGPU** development. I build high-performance, cross-platform applications that leverage GPU computing for graphics, compute shaders, and real-time data processing.
 
 **Core Expertise:**
-- 🦀 **Rust Systems Programming** - Memory-safe, high-performance applications
-- ⚡ **WebAssembly (WASM)** - Compiling Rust to WASM for web and native platforms
-- 🎮 **WebGPU/wgpu** - GPU-accelerated graphics and compute programming
-- 🔒 **Security Engineering** - Secure code practices and vulnerability analysis
-- ⛓️ **Blockchain/Web3** - GPU-accelerated blockchain applications and visualizations
+-  **Rust Systems Programming** - Memory-safe, high-performance applications
+-  **WebAssembly (WASM)** - Compiling Rust to WASM for web and native platforms
+-  **WebGPU/wgpu** - GPU-accelerated graphics and compute programming
+-  **Security Engineering** - Secure code practices and vulnerability analysis
+-  **Blockchain/Web3** - GPU-accelerated blockchain applications and visualizations
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 ### **Languages & Frameworks**
 - **Rust** - Advanced (Ownership, Lifetimes, Async, Unsafe Rust, FFI)
@@ -52,25 +53,25 @@ Senior software engineer specializing in **Rust**, **WebAssembly**, and **WebGPU
 - **Cross-Platform** - Web, Desktop (Tauri), Mobile considerations
 
 ### **Specializations**
-- 🎮 **Game Engines** - GPU-accelerated game development
-- 🤖 **ML/AI Inference** - GPU-accelerated machine learning in browser
-- 📊 **Data Visualization** - Real-time, GPU-accelerated visualizations
-- ⛓️ **Blockchain/Web3** - Cryptocurrency wallets, blockchain explorers, DeFi dashboards
-- 🔒 **Security Engineering** - Code auditing, vulnerability assessment
+-  **Game Engines** - GPU-accelerated game development
+-  **ML/AI Inference** - GPU-accelerated machine learning in browser
+-  **Data Visualization** - Real-time, GPU-accelerated visualizations
+-  **Blockchain/Web3** - Cryptocurrency wallets, blockchain explorers, DeFi dashboards
+-  **Security Engineering** - Code auditing, vulnerability assessment
 
 ---
 
-## 💼 Experience
+## Experience
 
 ### **Senior Rust/WASM-GPU Engineer**
 Building production-grade GPU-accelerated applications and libraries.
 
 **Key Achievements:**
-- ✅ Designed and implemented cross-platform GPU compute pipelines
-- ✅ Optimized WASM bundle sizes and GPU performance
-- ✅ Built secure, memory-safe Rust libraries with C-compatible FFI
-- ✅ Developed GPU-accelerated data visualization platforms
-- ✅ Created Web3 applications with GPU-accelerated graphics
+-  Designed and implemented cross-platform GPU compute pipelines
+-  Optimized WASM bundle sizes and GPU performance
+-  Built secure, memory-safe Rust libraries with C-compatible FFI
+-  Developed GPU-accelerated data visualization platforms
+-  Created Web3 applications with GPU-accelerated graphics
 
 **Technologies:** Rust, WebAssembly, WebGPU, wgpu, TypeScript, React
 
@@ -105,7 +106,7 @@ GPU-accelerated data visualization platform for large datasets.
 
 ---
 
-## 📚 Learning & Research
+##  Learning & Research
 
 ### **Current Focus**
 - Advanced GPU optimization techniques
@@ -114,11 +115,11 @@ GPU-accelerated data visualization platform for large datasets.
 - Security engineering and auditing
 
 ### **Areas of Interest**
-- 🎮 Game engine architecture
-- 🤖 ML inference on GPU
-- ⛓️ Blockchain core security
-- 🔒 Cryptographic security
-- 📊 Large-scale data visualization
+-  Game engine architecture
+-  ML inference on GPU
+-  Blockchain core security
+-  Cryptographic security
+-  Large-scale data visualization
 
 ---
 
