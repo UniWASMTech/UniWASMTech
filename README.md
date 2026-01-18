@@ -136,7 +136,7 @@ GPU-accelerated data visualization platform for large datasets.
 
 ---
 
-## 🏆 Certifications & Achievements
+##  Certifications & Achievements
 
 - 🏅 **Rust Security Engineer** - Advanced Rust security practices
 - 🏅 **WebGPU Specialist** - WebGPU API expertise
@@ -144,7 +144,7 @@ GPU-accelerated data visualization platform for large datasets.
 
 ---
 
-## 📝 Blog & Writing
+##  Blog & Writing
 
 I write about:
 - Rust and WebAssembly best practices
@@ -158,42 +158,30 @@ I write about:
 
 ---
 
-## 🤝 Collaboration
+##  Collaboration
 
 I'm open to:
-- 💼 **Consulting** - Rust/WASM-GPU projects, security audits
-- 🤝 **Open Source** - Contributing to Rust/WebGPU projects
-- 🎓 **Mentoring** - Helping developers learn Rust and GPU programming
-- 💡 **Speaking** - Technical talks and workshops
+-  **Consulting** - Rust/WASM-GPU projects, security audits
+-  **Open Source** - Contributing to Rust/WebGPU projects
+-  **Mentoring** - Helping developers learn Rust and GPU programming
+-  **Speaking** - Technical talks and workshops
 
 ---
 
-## 📧 Contact
+
+##  Current Status
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+** Currently working on:** Advanced GPU compute pipelines and Web3 applications
 
-</div>
+** Learning:** Zero-knowledge proofs, advanced shader optimization
 
----
+** Looking to collaborate on:** Open-source Rust/WebGPU projects
 
-## 🎯 Current Status
+** Ask me about:** Rust, WebAssembly, WebGPU, GPU programming, security
 
-<div align="center">
-
-**🔭 Currently working on:** Advanced GPU compute pipelines and Web3 applications
-
-**🌱 Learning:** Zero-knowledge proofs, advanced shader optimization
-
-**👯 Looking to collaborate on:** Open-source Rust/WebGPU projects
-
-**💬 Ask me about:** Rust, WebAssembly, WebGPU, GPU programming, security
-
-**⚡ Fun fact:** I can optimize GPU shaders while debugging memory safety issues!
+** Fun fact:** I can optimize GPU shaders while debugging memory safety issues!
 
 </div>
 
