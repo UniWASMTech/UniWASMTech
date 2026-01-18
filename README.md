@@ -121,19 +121,7 @@ GPU-accelerated data visualization platform for large datasets.
 -  Cryptographic security
 -  Large-scale data visualization
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
-
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0D1117)
-
-</div>
 
 ---
 
@@ -190,7 +178,7 @@ I'm open to:
 
 <div align="center">
 
-**⭐ If you find my work interesting, consider giving it a star!**
+** If you find my work interesting, consider giving it a star!**
 
 Made with ❤️ using Rust and WebGPU
 
