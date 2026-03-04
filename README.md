@@ -1,4 +1,4 @@
-# Senior Rust & WASM-GPU Engineer
+# Senior GPU Engineer
 
 <div align="center">
 
